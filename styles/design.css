@@ -1,0 +1,27 @@
+body {
+    background-color: #F4F4F4;
+}
+
+
+.circle-make {
+    height: 400px;
+    width: 400px;
+    border-radius: 0 0 200px 200px;
+    background-color: #FFFFFF;
+}
+
+.cong {
+    margin-top: 100px;
+}
+
+.last2line {
+    font-weight: bold;
+}
+
+.circle-text,
+.header-div,
+.main-div {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
